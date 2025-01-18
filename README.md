@@ -23,6 +23,15 @@ Physics_Sim_Py used [pyxel](https://github.com/kitao/pyxel) only.
 ```python
 import pyxel
 ```
+```bash
+$ ls -la
+
+total 12
+drwxr-xr-x  2 user group 4096 Jan 16 10:00 .
+drwxr-xr-x 10 user group 4096 Jan 16 09:50 ..
+-rw-r--r--  1 user group   20 Jan 16 10:00 example.txt
+```
+
 [Pyxel](https://github.com/kitao/pyxel) is a retro game engine for Python.
 You can feel free to enjoy making pixel art style physics simulations.
 
